@@ -12,9 +12,9 @@
   "dependencies": {
     "couchbase": "^3.0.6"
   },
-  "repository" : { 
-    "type" : "git",
-    "url" : "https://github.com/hacioguz/node-couchbase-project.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hacioguz/node-couchbase-project.git",
     "private": false
   }
 }
