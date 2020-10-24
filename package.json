@@ -15,6 +15,6 @@
   "repository" : { 
     "type" : "git",
     "url" : "https://github.com/hacioguz/node-couchbase-project.git",
-    "private": true
+    "private": false
   }
 }
