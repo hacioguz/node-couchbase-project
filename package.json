@@ -1,0 +1,20 @@
+{
+  "name": "node-couchbase-project",
+  "version": "1.0.0",
+  "description": "couchbase sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "couchbase": "^3.0.6"
+  },
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/hacioguz/node-couchbase-project.git",
+    "private": true
+  }
+}
